@@ -56,10 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AJAY007-A/AJAY007-A/output/snake.svg" alt="Snake animation" />
-
-###
-
 
 
 
