@@ -50,11 +50,14 @@
 |------------------------|------------------|---------------------|--------|
 | Lenovo LOQ  | IIntel Core i5 12th Gen 12450HX    | RTX 3050  |  6GB    |
 
-## Watch snake eating my github contributions
+---
+
+##  🐍 Watch snake eating my github contributions
 
 <img src="https://raw.githubusercontent.com/AJAY007-A/AJAY007-A/output/snake.svg" alt="Snake animation" />
 
 ###
+---
 
 
 
