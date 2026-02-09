@@ -10,7 +10,7 @@
 
 - 🔭 Building high-performance UIs and secure, scalable APIs
 - 🧪 Exploring `Next.js`, `AI integration`, and `DevOps fundamentals` 
-- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Tailwind`, `Prisma`, `Node.js`, `MongoDB`, `GraphQL`  
+- 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Tailwind`, `Prisma`, `Node.js`, `MongoDB`  
 - 🧠 Fun fact: I automate workflows wherever possible — from dev tasks to documentation
 
 ---
@@ -29,7 +29,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,tailwind,bootstrap,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,tailwind,bootstrap" />
 </p>
 
 ### 🗄️ Databases & Backends
