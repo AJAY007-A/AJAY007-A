@@ -29,7 +29,7 @@
 
 ### 💻 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,tailwind,bootstrap,java" />
 </p>
 
 ### 🗄️ Databases & Backends
