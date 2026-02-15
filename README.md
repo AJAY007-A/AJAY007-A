@@ -7,6 +7,7 @@
 ## 🧠 About Me
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
 - 🔭 Building high-performance UIs and secure, scalable APIs
 - 🧪 Exploring `Next.js`, `AI integration`, and `DevOps fundamentals` 
 - 💬 Ask me about: `React`, `Next.js`, `TypeScript`, `Tailwind`, `Prisma`, `Node.js`, `MongoDB`  
