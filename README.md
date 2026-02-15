@@ -32,7 +32,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,tailwind,bootstrap,java" />
 </p>
 
-### 🗄️ Databases & Backends
+### 🗄️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
 </p>
