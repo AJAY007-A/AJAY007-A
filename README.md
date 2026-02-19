@@ -6,7 +6,8 @@
 
 ## 🧠 About Me
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/source/06f21a161921919.63cd7887d0a70.gif" width="270" alt="Code Animation" />
+
 
 - 🔭 Building high-performance UIs and secure, scalable APIs
 - 🧪 Exploring `Next.js`, `AI integration`, and `DevOps fundamentals` 
